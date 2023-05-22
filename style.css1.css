@@ -1,0 +1,37 @@
+h1{
+    color: rgb(196, 135, 135);
+    text-align: center;
+}
+h2{
+    color:rgb(245, 134, 134);
+}
+ul{
+    color: red;
+    
+}
+h3{
+    text-align:center;
+    color:black
+}
+header{
+    color:red;
+    font-size: larger;
+    font-family: sans-serif;
+}
+img{
+    width: 100px;
+    height: 150px;
+    
+  
+}
+div{
+    display: flex;
+    justify-content:center;
+}
+p{
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-style:italic;
+}
